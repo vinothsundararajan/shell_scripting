@@ -3,7 +3,7 @@
 
 #script to check file is found or not
 
-if cat $1
+if  ./$1
 	then
 	echo -e "\n\nThe file $1 is exist in this directory"
 else
