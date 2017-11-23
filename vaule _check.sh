@@ -1,1 +1,0 @@
-vaule _check.sh
