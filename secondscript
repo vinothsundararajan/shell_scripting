@@ -1,0 +1,6 @@
+#Creation for date, cal and user#
+clear
+echo -e "Hello$USER"
+echo -n "Today is ";date
+echo "Number of current login:` who | wc -l`"
+exit 0

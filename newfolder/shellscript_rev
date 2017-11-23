@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ $# == 1 ]
+then 
+echo -n "The reverse value for $1 is :: ";echo "$1"|rev
+string1=$1
+echo  "${#string1}"
+else
+echo "atleast pass one arguments to display you output."
+fi
