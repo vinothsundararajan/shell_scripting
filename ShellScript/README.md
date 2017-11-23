@@ -1,2 +1,1 @@
-# My project's README
-# My project's README
+Here, is the simply test scripts to workaround for best practice.
