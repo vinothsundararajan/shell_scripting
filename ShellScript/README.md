@@ -1,1 +1,1 @@
-Here, is the simply test scripts to workaround for best practice.
+Here, is the simple test scripts to workaround for best practice.
